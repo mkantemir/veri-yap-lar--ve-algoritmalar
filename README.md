@@ -63,3 +63,29 @@ Aşama-5: [11,16,21] [8,12,22]
 Aşama-6: [8,11,12,16,21,22]
 
 Big-O: O(nlogn) = O(6log6)
+
+## Proje 3
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+
+Aşama-1
+
+Aşama-2
+
+Aşama-3
+
+Aşama-4
+
+Aşama-5
+
+Aşama-6
+
+Aşama-7
+
+Aşama-8
+
+Aşama-9
+
+Aşama-10
+
