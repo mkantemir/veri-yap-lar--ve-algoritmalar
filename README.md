@@ -19,11 +19,11 @@ Aşama-2: [2,6,16,22,18,27]
 Aşama-3: [2,6,16,18,22,27] 
 
 2.	Big-O:
-3.
+
 O(n²)
 
 3.	Time Complexity:
-4.
+
 Average case: O(n²)
 Worst Case : O(n²)
 Best Case : O(n)
