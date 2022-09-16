@@ -70,7 +70,7 @@ Big-O: O(nlogn) = O(6log6)
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 Aşama-1
-![GitHub](./aşama-1.jpg)
+![GitHub](/aşama-1.jpg)
 
 Aşama-2
 
