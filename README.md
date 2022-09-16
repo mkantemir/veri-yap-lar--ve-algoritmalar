@@ -70,23 +70,41 @@ Big-O: O(nlogn) = O(6log6)
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 Aşama-1
-![GitHub](/aşama-1.jpg)
+
+![GitHub](./images/asama-1.JPG)
 
 Aşama-2
 
+![GitHub](./images/asama-2.JPG)
+
 Aşama-3
+
+![GitHub](./images/asama-3.JPG)
 
 Aşama-4
 
+![GitHub](./images/asama-4.JPG)
+
 Aşama-5
+
+![GitHub](./images/asama-5.JPG)
 
 Aşama-6
 
+![GitHub](./images/asama-6.JPG)
+
 Aşama-7
+
+![GitHub](./images/asama-7.JPG)
 
 Aşama-8
 
+![GitHub](./images/asama-8.JPG)
+
 Aşama-9
+
+![GitHub](./images/asama-9.JPG)
 
 Aşama-10
 
+![GitHub](./images/asama-10.JPG)
